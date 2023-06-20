@@ -1,0 +1,166 @@
+# depslib dependency file v1.0
+1634584897 source:c:\users\daniel\documents\segundo año\aida\programas\trabajo practico especial\main.cpp
+	<iostream>
+	"Persona.h"
+	<Cancion.h>
+	<iostream>
+	<fstream>
+	<clocale>
+
+1634406577 source:c:\users\daniel\documents\segundo año\aida\programas\trabajo practico especial\src\persona.cpp
+	"Persona.h"
+
+1634406839 c:\users\daniel\documents\segundo año\aida\programas\trabajo practico especial\include\persona.h
+	<iostream>
+
+1634406605 source:c:\users\daniel\documents\segundo año\aida\programas\trabajo practico especial\src\cancion.cpp
+	"Cancion.h"
+
+1634588229 c:\users\daniel\documents\segundo año\aida\programas\trabajo practico especial\include\cancion.h
+	<iostream>
+
+1634406577 source:c:\users\sancr\downloads\trabajo_practico_especial (1)\trabajo practico especial\src\persona.cpp
+	"Persona.h"
+
+1634406839 c:\users\sancr\downloads\trabajo_practico_especial (1)\trabajo practico especial\include\persona.h
+	<iostream>
+
+1635884200 source:c:\users\sancr\downloads\trabajo_practico_especial (1)\trabajo practico especial\main.cpp
+	<iostream>
+	<Cancion.h>
+	<Lista.h>
+	<ListaGeneros.h>
+	<iostream>
+	<fstream>
+	<clocale>
+
+1635876506 c:\users\sancr\downloads\trabajo_practico_especial (1)\trabajo practico especial\include\cancion.h
+	<iostream>
+	<Lista.h>
+
+1635877783 source:c:\users\sancr\downloads\trabajo_practico_especial (1)\trabajo practico especial\src\cancion.cpp
+	"Cancion.h"
+	<ListaGeneros.h>
+
+1635888307 c:\users\sancr\downloads\trabajo_practico_especial (1)\trabajo practico especial\include\listageneros.h
+	<iostream>
+	<Cancion.h>
+
+1635975341 source:c:\users\sancr\downloads\trabajo_practico_especial (1)\trabajo practico especial\src\listageneros.cpp
+	"ListaGeneros.h"
+	"Cancion.h"
+	<iostream>
+
+1635880418 source:c:\users\sancr\downloads\trabajo_practico_especial (1)\trabajo practico especial\src\lista.cpp
+	"Lista.h"
+	"Cancion.h"
+	<iostream>
+
+1635873197 c:\users\sancr\downloads\trabajo_practico_especial (1)\trabajo practico especial\include\lista.h
+	<iostream>
+
+1636409985 source:c:\users\daniel\downloads\trabajo_practico_especial (1)\trabajo practico especial\main.cpp
+	<iostream>
+	<Cancion.h>
+	<Lista.h>
+	<ListaGeneros.h>
+	<fstream>
+	<clocale>
+
+1636319337 c:\users\daniel\downloads\trabajo_practico_especial (1)\trabajo practico especial\include\cancion.h
+	<iostream>
+	<Lista.h>
+
+1635873197 c:\users\daniel\downloads\trabajo_practico_especial (1)\trabajo practico especial\include\lista.h
+	<iostream>
+
+1635888307 c:\users\daniel\downloads\trabajo_practico_especial (1)\trabajo practico especial\include\listageneros.h
+	<iostream>
+	<Cancion.h>
+
+1636319337 source:c:\users\daniel\downloads\trabajo_practico_especial (1)\trabajo practico especial\src\cancion.cpp
+	"Cancion.h"
+	<ListaGeneros.h>
+
+1635880418 source:c:\users\daniel\downloads\trabajo_practico_especial (1)\trabajo practico especial\src\lista.cpp
+	"Lista.h"
+	"Cancion.h"
+	<iostream>
+
+1636320142 source:c:\users\daniel\downloads\trabajo_practico_especial (1)\trabajo practico especial\src\listageneros.cpp
+	"ListaGeneros.h"
+	"Cancion.h"
+	<iostream>
+
+1634406577 source:c:\users\daniel\downloads\trabajo_practico_especial (1)\trabajo practico especial\src\persona.cpp
+	"Persona.h"
+
+1634406839 c:\users\daniel\downloads\trabajo_practico_especial (1)\trabajo practico especial\include\persona.h
+	<iostream>
+
+1636321546 source:c:\users\daniel\downloads\trabajo_practico_especial (1)\trabajo practico especial\quicksort.cpp
+	<stdio.h>
+	"Cancion.h"
+
+1636319996 c:\users\daniel\downloads\trabajo_practico_especial (1)\trabajo practico especial\quicksort.cpp
+	<stdio.h>
+	"Cancion.h"
+
+1636409799 source:c:\users\daniel\downloads\trabajo_practico_especial (1)\trabajo practico especial\funciones.cpp
+	<iostream>
+	"Cancion.h"
+
+1636679048 source:c:\users\sancr\downloads\trabajo_practico_especial (3)\trabajo practico especial\funciones.cpp
+	<iostream>
+	"Cancion.h"
+	"ListaGeneros.h"
+	<fstream>
+
+1636719267 c:\users\sancr\downloads\trabajo_practico_especial (3)\trabajo practico especial\include\cancion.h
+	<iostream>
+	<Lista.h>
+
+1636669698 c:\users\sancr\downloads\trabajo_practico_especial (3)\trabajo practico especial\include\lista.h
+	<iostream>
+
+1636679115 source:c:\users\sancr\downloads\trabajo_practico_especial (3)\trabajo practico especial\main.cpp
+	<iostream>
+	<Cancion.h>
+	<Lista.h>
+	<ListaGeneros.h>
+	<fstream>
+	<clocale>
+
+1636678113 c:\users\sancr\downloads\trabajo_practico_especial (3)\trabajo practico especial\include\listageneros.h
+	<iostream>
+	<Cancion.h>
+
+1636664835 source:c:\users\sancr\downloads\trabajo_practico_especial (3)\trabajo practico especial\quicksort.cpp
+	<stdio.h>
+	"Cancion.h"
+
+1636719365 source:c:\users\sancr\downloads\trabajo_practico_especial (3)\trabajo practico especial\src\cancion.cpp
+	"Cancion.h"
+	<ListaGeneros.h>
+
+1636670129 source:c:\users\sancr\downloads\trabajo_practico_especial (3)\trabajo practico especial\src\lista.cpp
+	"Lista.h"
+	"Cancion.h"
+	<iostream>
+
+1636678908 source:c:\users\sancr\downloads\trabajo_practico_especial (3)\trabajo practico especial\src\listageneros.cpp
+	"ListaGeneros.h"
+	"Cancion.h"
+	<iostream>
+
+1634406577 source:c:\users\sancr\downloads\trabajo_practico_especial (3)\trabajo practico especial\src\persona.cpp
+	"Persona.h"
+
+1634406839 c:\users\sancr\downloads\trabajo_practico_especial (3)\trabajo practico especial\include\persona.h
+	<iostream>
+
+1636722731 source:c:\users\sancr\downloads\trabajo_practico_especial (3)\trabajo practico especial\src\topgeneros.cpp
+	"TopGeneros.h"
+
+1636722731 c:\users\sancr\downloads\trabajo_practico_especial (3)\trabajo practico especial\include\topgeneros.h
+
